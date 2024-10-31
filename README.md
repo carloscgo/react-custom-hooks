@@ -1,5 +1,5 @@
 
-# S.Leschev: React Custom Hooks
+# React Custom Hooks
 ### Supercharge Your Projects with My Custom Hooks
 
 In this repository, we dive into the world of custom React hooks and explore the incredible potential they hold for supercharging your work projects. With over 20 carefully crafted hooks at your disposal, I personally utilize these hooks in my own work projects, and now I'm excited to share them with you. From enhancing functionality to streamlining workflows, these custom hooks are designed to empower developers and deliver user-friendly experiences. Join us on this journey as we unleash the power of these 20+ hooks and unlock new levels of productivity and innovation in your React projects.
